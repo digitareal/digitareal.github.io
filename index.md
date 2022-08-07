@@ -6,12 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Crystal Candy Wiggle Bubble
 [Crystal Candy Wiggle Bubble Support](https://github.com/digitareal/CrystalCandy/wiki/Crystal-Candy-Support).
+
 [Crystal Candy Wiggle Bubble Privacy Policy](https://github.com/digitareal/CrystalCandy/wiki/Privacy-Policy).
 
 ### Rawbit Up Great Early Party
 [Rawbit Up Great Early Party Support](https://github.com/digitareal/RawBit-Up-Great/wiki/support).
+
 [Rawbit Up Great Early Party Privacy Policy](https://github.com/digitareal/RawBit-Up-Great/wiki/Privacy-Policy).
-/*
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
