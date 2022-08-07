@@ -4,8 +4,14 @@ You can use the [editor on GitHub](https://github.com/digitareal/digitareal.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Crystal Candy Wiggle Bubble
+[Crystal Candy Wiggle Bubble Support](https://github.com/digitareal/CrystalCandy/wiki/Crystal-Candy-Support)
+[Crystal Candy Wiggle Bubble Privacy Policy](https://github.com/digitareal/CrystalCandy/wiki/Privacy-Policy)
 
+### Rawbit Up Great Early Party
+[Rawbit Up Great Early Party Support] (https://github.com/digitareal/RawBit-Up-Great/wiki/support)
+[Rawbit Up Great Early Party Privacy Policy] (https://github.com/digitareal/RawBit-Up-Great/wiki/Privacy-Policy)
+/*
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -35,3 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*/
