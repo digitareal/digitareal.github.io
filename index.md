@@ -20,6 +20,5 @@ Here You can find useful information about our games:
 [Rawbit Up Great Early Party Privacy Policy](https://github.com/digitareal/RawBit-Up-Great/wiki/Privacy-Policy).
 
 
-# Header 1
-## Header 2
-### Header 3
+
+[^1]: (C) 2011-2022
