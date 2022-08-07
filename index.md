@@ -15,9 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Rawbit Up Great Early Party
 
-[R![RB256Icon](https://user-images.githubusercontent.com/47940240/183290753-3180abb4-fae4-4e3c-abf1-fd404ad77397.png)
+![RB256Icon](https://user-images.githubusercontent.com/47940240/183290753-3180abb4-fae4-4e3c-abf1-fd404ad77397.png)
 
-awbit Up Great Early Party Support](https://github.com/digitareal/RawBit-Up-Great/wiki/support).
+[Rawbit Up Great Early Party Support](https://github.com/digitareal/RawBit-Up-Great/wiki/support).
 
 [Rawbit Up Great Early Party Privacy Policy](https://github.com/digitareal/RawBit-Up-Great/wiki/Privacy-Policy).
 
